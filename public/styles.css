@@ -1,0 +1,39 @@
+.year {
+  font-weight: bold
+}
+
+body {
+  background-color: black
+}
+
+ul {
+    display: inline-block;
+    border: 2px solid white;
+    background-color: #17a2b8
+}
+
+
+li {
+    display: inline-block;
+    border-left: 1px solid white;
+    padding: 15px;
+    background-color: #17a2b8;
+    color: white;
+}
+
+li:hover {
+  background-color: #67c2d0
+}
+
+a {
+  color: white
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline
+}
+
+.active {
+  background-color: #4fb9c9
+}
